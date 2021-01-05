@@ -1,0 +1,25 @@
+import java.util.Scanner;
+public class samuel_smallpp_to_smallpp //for conversion of small pp to big pp....contact jhonny sins 
+{
+    public static void Samuel_change_the_yt_profile_pic(int your_dumb_choice)
+    {
+        if(your_dumb_choice==1)
+        {
+            System.out.println("That is impossible......haven't you seen the Ques??");
+            System.out.println("you have a small pp...accept it");
+        }
+        else if(your_dumb_choice==2)
+            System.out.println("Very precise");
+    }
+
+    public static void main(String args[])
+    {
+        Scanner pp=new Scanner(System.in);
+        System.out.print("Enter 1 if you have big pp or 2 if you have small pp");
+        int dickhead=pp.nextInt();
+        Samuel_change_the_yt_profile_pic(dickhead);
+        System.out.println("So......umm...what was the  ques?");
+        System.out.println("oh ....it was....hello motherfuckers?....no wait....got it");
+        System.out.println("Hello moth....oh srry..\nHello World");
+    }
+}
